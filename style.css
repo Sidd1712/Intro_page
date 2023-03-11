@@ -4,6 +4,11 @@ body{
 
 }
 
+#technicalskills p{
+    font-style: italic;
+    font-weight: bold;
+}
+
 footer{
     background-color: aquamarine;
     color: darkorange;
