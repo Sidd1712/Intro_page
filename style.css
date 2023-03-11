@@ -4,11 +4,27 @@ body{
 
 }
 
-#technicalskills p{
+#technicalskills {
     font-style: italic;
     font-weight: bold;
+    background-color: azure;
+    font-size: large;
+    
 }
 
+#technicalskills h2 {
+    text-decoration: underline;
+}
+#qual{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: large;
+ font-weight: bold;
+
+}
+
+#qual h2 {
+    text-decoration: underline;
+}
 footer{
     background-color: aquamarine;
     color: darkorange;
