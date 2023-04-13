@@ -4,6 +4,11 @@ body{
 
 }
 
+.img{
+    width : 175px;
+    margin: 0 auto;
+    
+}
 .firstHalf{
     display: grid;
     grid-template-columns: repeat(2,1fr);
